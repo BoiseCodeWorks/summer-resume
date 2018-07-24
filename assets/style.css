@@ -1,0 +1,23 @@
+.contact h1{
+  color: cornflowerblue;
+}
+
+/* a {
+  text-decoration: none;
+  color: black;
+} */
+
+.profile {
+  color: rgb(88, 21, 156);
+  background-color: yellow !important;
+  min-height: 50vh;
+}
+
+p {
+  background-color: red;
+}
+
+li:hover{
+  font-weight: 700;
+}
+
